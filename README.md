@@ -7,7 +7,7 @@
 ### *Next-Generation Privacy-First Telegram Client for iOS*
 
 [![Latest Release](https://img.shields.io/github/v/release/Garantka4/Garantgram?color=34C759&label=Latest%20Release&logo=apple&style=for-the-badge)](https://github.com/Garantka4/Garantgram/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-iOS%2015.0%2B-000000?style=for-the-badge&logo=apple)](https://github.com/Garantka4/Garantgram)
+[![Platform](https://img.shields.io/badge/Platform-iOS%2016.0%2B-000000?style=for-the-badge&logo=apple)](https://github.com/Garantka4/Garantgram)
 [![Ghost Mode](https://img.shields.io/badge/Ghost%20Mode-100%25%20Active-34C759?style=for-the-badge&logo=ghost)](https://github.com/Garantka4/Garantgram)
 [![Ad Free](https://img.shields.io/badge/Ads-100%25%20Blocked-red?style=for-the-badge)](https://github.com/Garantka4/Garantgram)
 
